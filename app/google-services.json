@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90358551546",
+    "firebase_url": "https://note-app-e7b97.firebaseio.com",
+    "project_id": "note-app-e7b97",
+    "storage_bucket": "note-app-e7b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90358551546:android:8586ca2f5055a7f2538a43",
+        "android_client_info": {
+          "package_name": "com.auna.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90358551546-btf5rgaeoucjoru69njs8nuqlvqb0grj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCcRi1ireyALN3Cf_Y6zGhMiMei-GjhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90358551546-btf5rgaeoucjoru69njs8nuqlvqb0grj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

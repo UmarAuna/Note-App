@@ -7,8 +7,16 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_notes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:listitem="@layout/list_item_holder"/>
+
+    <Button
+        android:id="@+id/btn_goto_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Goto Add"
+        android:layout_gravity="center"/>
 
 </LinearLayout>

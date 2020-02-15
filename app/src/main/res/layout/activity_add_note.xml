@@ -8,17 +8,20 @@
     tools:context=".AddNote">
 
     <EditText
+        android:id="@+id/edt_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Title"
         android:inputType="text" />
 
     <EditText
+        android:id="@+id/edt_content"
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:hint="Enter Content"
         android:inputType="textMultiLine"/>
     <Button
+        android:id="@+id/btn_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
