@@ -6,6 +6,16 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/no_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Data"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textColor="#F44336"
+        android:visibility="gone"/>
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_notes"
         android:layout_width="match_parent"
