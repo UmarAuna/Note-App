@@ -26,4 +26,12 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="Save Note" />
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF3A3A"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:text="Delete Note" />
 </LinearLayout>
